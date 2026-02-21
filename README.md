@@ -1,6 +1,6 @@
 # Hi, I'm Waseem Ahmad 👋
 
-### AI/ML/data science Specialist | Financial Analytics | Oprations Management
+### AI/ML/ & Data science Specialist | Financial Analytics | Oprations Management
 
 Former ISRO Scientist | IIT Roorkee M.Tech | Portfolio Manager (₹60M+)
 
