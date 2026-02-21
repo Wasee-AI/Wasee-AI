@@ -2,7 +2,7 @@
 
 ### AI/ML/ & Data science Specialist | Financial Analytics | Industrial AI
 
-Former ISRO Scientist | IIT Roorkee M.Tech | Portfolio Manager (₹60M+)
+Former ISRO Scientist | Portfolio Manager (₹60M+)| IIT Roorkee/AMU Aluminus
 
 Building AI systems at the intersection of financial markets
 and industrial operations.
