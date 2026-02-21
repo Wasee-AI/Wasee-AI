@@ -1,6 +1,6 @@
 # Hi, I'm Waseem Ahmad 👋
 
-### AI/ML/ & Data science Specialist | Financial Analytics | Oprations Management
+### AI/ML/ & Data science Specialist | Financial Analytics | Industrial AI
 
 Former ISRO Scientist | IIT Roorkee M.Tech | Portfolio Manager (₹60M+)
 
@@ -31,4 +31,4 @@ SQL | Data Visualization | Flask
 
 ### 📫 Reach Me
 - Email: waseefaridi@gmail.com
-- https://scholar.google.com/citations?user=M98NW_EAAAAJ&hl=en
+- 🎓 Google Scholar: [Research Publications](https://scholar.google.com/citations?user=M98NW_EAAAAJ&hl=en) 
