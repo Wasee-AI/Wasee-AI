@@ -1,6 +1,6 @@
 # Hi, I'm Waseem Ahmad 👋
 
-### AI/ML/ & Data science Specialist | Financial Analytics | Industrial AI
+### AI/ML/ & Data Science Specialist | Financial Analytics | Industrial AI
 
 Former ISRO Scientist | Portfolio Manager (₹60M+)| IIT Roorkee/AMU Aluminus
 
